@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/React-Movie-App/static/css/main.3e7e3ef2.chunk.css",
+    "main.js": "/React-Movie-App/static/js/main.e20bd975.chunk.js",
+    "main.js.map": "/React-Movie-App/static/js/main.e20bd975.chunk.js.map",
+    "runtime-main.js": "/React-Movie-App/static/js/runtime-main.8ce5585e.js",
+    "runtime-main.js.map": "/React-Movie-App/static/js/runtime-main.8ce5585e.js.map",
+    "static/js/2.f72f001b.chunk.js": "/React-Movie-App/static/js/2.f72f001b.chunk.js",
+    "static/js/2.f72f001b.chunk.js.map": "/React-Movie-App/static/js/2.f72f001b.chunk.js.map",
+    "static/js/3.5f36cdae.chunk.js": "/React-Movie-App/static/js/3.5f36cdae.chunk.js",
+    "static/js/3.5f36cdae.chunk.js.map": "/React-Movie-App/static/js/3.5f36cdae.chunk.js.map",
+    "index.html": "/React-Movie-App/index.html",
+    "static/css/main.3e7e3ef2.chunk.css.map": "/React-Movie-App/static/css/main.3e7e3ef2.chunk.css.map",
+    "static/js/2.f72f001b.chunk.js.LICENSE.txt": "/React-Movie-App/static/js/2.f72f001b.chunk.js.LICENSE.txt",
+    "static/media/email.791ac90f.svg": "/React-Movie-App/static/media/email.791ac90f.svg",
+    "static/media/github.d1784505.svg": "/React-Movie-App/static/media/github.d1784505.svg",
+    "static/media/linkedin.7a1e4ee9.svg": "/React-Movie-App/static/media/linkedin.7a1e4ee9.svg",
+    "static/media/logo.6ce24c58.svg": "/React-Movie-App/static/media/logo.6ce24c58.svg",
+    "static/media/smartphone.ba796f3f.svg": "/React-Movie-App/static/media/smartphone.ba796f3f.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8ce5585e.js",
+    "static/js/2.f72f001b.chunk.js",
+    "static/css/main.3e7e3ef2.chunk.css",
+    "static/js/main.e20bd975.chunk.js"
+  ]
+}
